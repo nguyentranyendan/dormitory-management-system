@@ -66,7 +66,7 @@ Dormitory-Management-System/
 
 ---
 
-## Phân tích theo hướng nghiệp vụ (BA)
+## Phân tích theo hướng nghiệp vụ
 - Tác nhân: Nhân viên quản lý ký túc xá  
 
 - Các trường hợp sử dụng chính:
