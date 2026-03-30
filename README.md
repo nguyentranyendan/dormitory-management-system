@@ -33,7 +33,7 @@ Dự án hướng đến:
 - PyQt6  
 - Qt Designer  
 - PyCharm  
-- Git và GitHub  
+- GitHub  
 
 ---
 
@@ -94,7 +94,7 @@ Dormitory-Management-System/
 Nguyễn Trần Yên Đan - K244161778  
 
 Nhóm Firefly
-Ngành Kinh doanh số và Trí tuệ nhân tạo  
+Ngành Hệ thống thông tin quản lý - chuyên ngành Kinh doanh số và Trí tuệ nhân tạo  
 Khoa Hệ thống Thông tin  
 Trường Đại học Kinh tế – Luật, ĐHQG-HCM  
 
